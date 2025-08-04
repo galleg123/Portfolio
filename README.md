@@ -6,7 +6,7 @@ Website/Overview of my projects
 
 ## [Fullstack Inventory Management](https://github.com/DennisRussell0/fullstack-inventory-managemenet/tree/Mikkel-Frontend-Filtering)
 
-This project was made in collaboration with [Dennis Russell](DennisRussell0) during a course at specialisterne academy.
+The Fullstack Inventory Management project was made in collaboration with [Dennis Russell](DennisRussell0) during a course at specialisterne academy.
 
 ### About
 
