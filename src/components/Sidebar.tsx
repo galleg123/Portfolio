@@ -6,13 +6,13 @@ const Sidebar = () => {
       <div className={styles.sidebar}>
         <ul className={styles.sidebarList}>
           <li>
-            <a href="#">Projects</a>
+            <a href="/projects">Projects</a>
           </li>
           <li>
-            <a href="#">About</a>
+            <a href="/aboutme">About</a>
           </li>
           <li>
-            <a href="#">Contact</a>
+            <a href="/contact">Contact</a>
           </li>
         </ul>
       </div>
