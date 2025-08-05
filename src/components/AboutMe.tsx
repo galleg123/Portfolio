@@ -5,7 +5,10 @@ const AboutMe = () => {
     <>
       <div className={styles.container}>
         <h1>About Me</h1>
-        <p>This is the about me section.</p>
+        <p>
+          This is the about me section. Where my education and internships will
+          be shown.
+        </p>
         <h2>Education</h2>
         <p>Computer Engineering - Aalborg University - 2020-2023</p>
         <h2>Experience</h2>
