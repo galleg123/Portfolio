@@ -8,7 +8,7 @@ function App() {
       <Sidebar />
       <Router>
         <Routes>
-          <Route path="/aboutme" element={<AboutMe />} />
+          <Route path="/Portfolio/aboutme" element={<AboutMe />} />
         </Routes>
       </Router>
     </>
