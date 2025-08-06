@@ -1,0 +1,7 @@
+.container {
+  position: relative;
+  box-sizing: border-box;
+  margin-left: 250px;
+  padding: 40px;
+  width: 100%;
+}

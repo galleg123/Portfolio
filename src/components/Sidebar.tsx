@@ -1,4 +1,5 @@
 import styles from "./Sidebar.module.css";
+import { NavLink } from "react-router-dom";
 
 const Sidebar = () => {
   return (
@@ -6,13 +7,13 @@ const Sidebar = () => {
       <div className={styles.sidebar}>
         <ul className={styles.sidebarList}>
           <li>
-            <a href="/Portfolio/#/projects">Projects</a>
+            <NavLink to="/projects">Projects</NavLink>
           </li>
           <li>
-            <a href="/Portfolio/#/aboutme">About</a>
+            <NavLink to="/aboutme">About</NavLink>
           </li>
           <li>
-            <a href="/Portfolio/#/contact">Contact</a>
+            <NavLink to="/contact">Contact</NavLink>
           </li>
         </ul>
       </div>
